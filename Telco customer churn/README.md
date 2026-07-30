@@ -5,7 +5,7 @@ Churn dataset using Decision Trees, rule-based classification, kNN, and ensemble
 methods (Random Forest, AdaBoost) — with every modelling decision tied back to
 bias-variance / overfitting concepts.
 
-**Author:** Siddhant Baliyan (Student ID: 2025EM1100164)
+**Author:** Siddhant Baliyan 
 
 ## Project structure
 
@@ -50,7 +50,7 @@ telco-churn-prediction/
 Ensembles (Random Forest / AdaBoost) give the best raw accuracy; the tuned Decision
 Tree and its extracted rules remain the most interpretable for a retention team that
 needs to know *why* a customer is flagged. Full discussion in
-[`report/telco_churn_report.pdf`](report/telco_churn_report.pdf).
+
 
 ## Running it
 
